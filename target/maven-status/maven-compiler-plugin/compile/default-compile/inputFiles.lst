@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\SpringBootCRUDApplicationExample\src\main\java\com\chayan\springboot\controller\AppController.java
+C:\Users\Admin\Downloads\SpringBootCRUDApplicationExample\src\main\java\com\chayan\springboot\model\Task.java
+C:\Users\Admin\Downloads\SpringBootCRUDApplicationExample\src\main\java\com\chayan\springboot\service\TaskService.java
+C:\Users\Admin\Downloads\SpringBootCRUDApplicationExample\src\main\java\com\chayan\springboot\util\CustomErrorType.java
+C:\Users\Admin\Downloads\SpringBootCRUDApplicationExample\src\main\java\com\chayan\springboot\repositories\TaskRepository.java
+C:\Users\Admin\Downloads\SpringBootCRUDApplicationExample\src\main\java\com\chayan\springboot\service\TaskServiceImpl.java
+C:\Users\Admin\Downloads\SpringBootCRUDApplicationExample\src\main\java\com\chayan\springboot\configuration\JpaConfiguration.java
+C:\Users\Admin\Downloads\SpringBootCRUDApplicationExample\src\main\java\com\chayan\springboot\model\ParentTask.java
+C:\Users\Admin\Downloads\SpringBootCRUDApplicationExample\src\main\java\com\chayan\springboot\controller\RestApiController.java
+C:\Users\Admin\Downloads\SpringBootCRUDApplicationExample\src\main\java\com\chayan\springboot\TaskManagerApp.java

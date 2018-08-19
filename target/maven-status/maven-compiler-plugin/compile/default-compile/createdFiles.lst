@@ -1,0 +1,10 @@
+com\chayan\springboot\model\Task.class
+com\chayan\springboot\TaskManagerApp.class
+com\chayan\springboot\service\TaskService.class
+com\chayan\springboot\controller\RestApiController.class
+com\chayan\springboot\model\ParentTask.class
+com\chayan\springboot\service\TaskServiceImpl.class
+com\chayan\springboot\controller\AppController.class
+com\chayan\springboot\configuration\JpaConfiguration.class
+com\chayan\springboot\repositories\TaskRepository.class
+com\chayan\springboot\util\CustomErrorType.class

@@ -1,0 +1,27 @@
+---
+server:
+  port: 3333
+  contextPath: /TaskManagerApp
+---
+
+spring:
+  profiles: local, default
+  freemarker:
+    suffix: .ftl
+    template-loader-path: classpath:/templates
+
+datasource:
+  sampleapp:
+    url: jdbc:mysql://localhost:3306/taskManagerDB
+    username: root
+    password: pass@word1
+    driverClassName: com.mysql.jdbc.Driver
+    hibernate:
+      hbm2ddl.method: update
+      show_sql: true
+      format_sql: true
+      dialect: org.hibernate.dialect.MySQLDialect
+    defaultSchema:
+    maxPoolSize: 20
+    
+
